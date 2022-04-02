@@ -546,3 +546,24 @@ If your Word document contains no Heading 1 or Heading 2 styles, PowerPoint will
 - [x] The slide show ends and you return to your previous view.
 - [ ] The next slide appears.
 - [ ] Nothing happens.
+
+#### Q72. In a presentation about voter turnout, you are illustrating various data with charts. Which type of information would you present in a pie chart?
+
+- [ ] how many people voted in various geographic regions
+- [x] what percentage of the whole population voted
+- [ ] trends in voter turnout over the past 10 years
+- [ ] the decline of voter turnout by country
+
+#### Q73. You are presenting with two monitors. Which view displays a preview of the next slide and speaker notes on the second monitor
+
+- [ ] Master View
+- [x] Presenter View
+- [ ] Normal View
+- [ ] Reading View
+
+#### Q74. Many PowerPoint slide backgrouns use a color effect that is gradually shaded from top to bottom. What is this effect called?
+
+- [ ] pattern fill
+- [x] gradient fill
+- [ ] texture fill
+- [ ] solid fill
