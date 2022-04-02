@@ -984,3 +984,35 @@ https://support.microsoft.com/en-us/office/print-headings-or-titles-on-every-pag
 - [ ] custom
 
 [reference](https://www.extendoffice.com/documents/excel/3830-excel-only-allow-certain-values.html)
+
+### Q121. A colleague shared an Excel file with you, and you want to display a worksheet that is hidden. How can you do that?
+
+- [ ] On the Home tab, click Unhide.
+- [x] Right-click any worksheet tab and select Unhide.
+- [ ] On the View Tab, click New Window.
+- [ ] On the Review tab, click Unhide Sheet.
+
+### Q122. You have a worksheet with the year in column A, the month in column B, and the day in column C. All fields contain numbers. What function would you use to create the date in column D?
+
+- [ ] TEXTJOIN
+- [x] DATE
+- [ ] DATEVALUE
+- [ ] CONCATENATE
+
+### Q123. You want to copy only the cells that are displayed here --not the hidden cells-- into another worksheet. After selecting the cells in the worksheet, how do you accomplish this?
+
+![image](https://user-images.githubusercontent.com/22121323/161392441-4727f871-ceae-40a3-969d-70b40f99e217.png)
+
+- [ ] On the VIEW tab, select Visible cells only. Paste into the destination worksheet.
+- [x] On the Home Tab, click Find & Select > Go To Special > Visible cells only. Paste into the destination worksheet.
+- [ ] Copy the cells. Then, in the destination worksheet, click Paste Special > Paste Only Visible Cells.
+- [ ] On the Home tab, clear the Hidden cells check box. Paste into the destination worksheet.
+
+### Q124. To calculate gross pay, hours are multiplied by the hourly rate. What formula would you put in cell C4 to then be able to copy that cell down to the rest of the column?
+
+![image](https://user-images.githubusercontent.com/22121323/161392559-8b746fb5-383d-4d7b-a694-9c840a2c43c2.png)
+
+- [ ] =B1 * $B$4
+- [x] =$B$1 * B4
+- [ ] =B1 * B4
+- [ ] =$B1 * B4
